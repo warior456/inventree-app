@@ -25,7 +25,7 @@ Download and install from the [Apple App Store](https://apps.apple.com/au/app/in
 
 We provide direct downloads for Android users - view our [download page via polar.sh](https://polar.sh/inventree/products/299bf0d5-af88-4e0f-becf-c007ad37ecf2)
 
-## User Documentation
+## User Documentation t
 
 User documentation for the InvenTree mobile app can be found [within the InvenTree documentation](https://inventree.readthedocs.io/en/latest/app/app/).
 
